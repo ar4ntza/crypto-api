@@ -4,7 +4,7 @@ Edna Samantha Cortés Carrizosa / Arantza García Vázquez
 
 ~ Instrucciones para montar y ejecutar el proyecto ~
 
-1. Colar el repositorio
+1. Clonar el repositorio
     git clone <https://github.com/ar4ntza/crypto-api.git>
     cd <https://github.com/ar4ntza/crypto-api.git>
 
